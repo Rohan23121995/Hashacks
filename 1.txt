@@ -1,0 +1,17 @@
+Team Name: The Breaking RAD
+
+Problem: 
+In India, every 4 minutes a road accident takes place, some people go unidentified and don't get required treatment and care on time, hospitals also go un notified about the place of accident and some time the accused needs blood instantly for which hospitals might need previous medical records. 
+Solution:    
+* We have made a smart device and a web app containing personal and medical database.
+* The attractive feature of the device is that finger print recognition system is being used.
+* The device will be handed over to the cops and as soon they obtain the fingerprint traces, they will get an AADHAAR CARD number, linking the system with UIDAI.
+* As government is linking every possible details such as bank details, gas connections, sim connections to aadhaar card so this can also be applied effectively on a large scale.
+* As the policeman sign up using the aadhaar number to the web app, they will attain personal and medical details of the affected person.
+* Personal details contain Name, Address & and the Medical details contain Blood group, Previous medical record and Medical Insurance (Mediclaim) information of the person.
+*  Using this, the person can be identified quickly, his blood group will be used to compensate the blood requirement, previous medical record will ensure right treatment and medical insurance details will help him get the desired medical benefits.
+* Along with this, the device will also be used to send the current location of the accused to nearby hospitals for the ambulance requirement.
+* Practical application of this idea can save atleast 1 on 10 lives.
+Expected work further:
+We are trying to think some more methods for the unique identification of the accused, so will be working upon this in the next coming hours .
+
