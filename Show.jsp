@@ -1,3 +1,15 @@
+<html>
+<style>
+body{
+background-image:url(https://media.licdn.com/mpr/mpr/p/4/005/0ac/023/10eb62a.png);
+
+background-repeat:no-repeat;
+			 background-position:bottom;
+			  background-color:2e488e;
+			  }
+
+</style>
+<body>
 <%@ page import=" java.sql.*"%>
 <%
 String driver_name="com.mysql.jdbc.Driver";
@@ -26,3 +38,5 @@ String url="jdbc:mysql://localhost:3306/health";
 <br>
 <br>
 Press <a href="Welcome.jsp">continue</a> to procede.
+</body>
+</html>
