@@ -1,3 +1,12 @@
+<html>
+<style>
+body{
+background-color:brown;
+
+}
+
+</style>
+<body>
 <%@ page import=" java.sql.*"%>
 <%
 
@@ -26,3 +35,5 @@ String url="jdbc:mysql://localhost:3306/Health";
 Press <a href="Welcome.jsp">continue</a> to procede.
 <%con.close();
 %>
+</body>
+</html>
