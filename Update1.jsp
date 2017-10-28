@@ -1,3 +1,13 @@
+<html>
+<style>
+body{
+background-image:url(http://www.shankyprofileshop.com/image/cache/data/update/Update-600x594-500x500.png);
+ background-repeat:no-repeat;
+			 background-position:center;
+			  background-color:grey;
+}
+</style>
+<body>
 <%@ page import=" java.sql.*"%>
 Enter your Details to Update
 <form action="Update2.jsp" method="post">
@@ -20,3 +30,5 @@ Enter your Details to Update
 	<input type="submit" value="Submit" >
 	
 </form>
+</body>
+</html>
